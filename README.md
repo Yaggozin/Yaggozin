@@ -1,9 +1,9 @@
-- eu sou um humsno
+
+- eu sou um humano
 - eu amo o Nicolas Cage
-- não sou gay, tanbem não sou julgo quem seja
 - fnf modder
 - artista
-- coder
+- coder HAXE
 - youtuber
 - musico iniciante
 
