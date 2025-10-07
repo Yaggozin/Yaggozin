@@ -1,6 +1,6 @@
 
 - eu sou um humano
-- eu amo o Nicolas Cage
+- eu amo o Nicolas Cage (Zueira)
 - fnf modder
 - artista
 - coder HAXE
