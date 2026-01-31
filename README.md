@@ -1,10 +1,10 @@
+# YAGG0ZIN INC
+Sou o Yagg0zin (ninguem me conhece), faço videos pra internet e programo,
+e faço outras coisas tambem mas ninguem liga aqui.
 
-- eu sou um humano
-- eu amo o Nicolas Cage (Zueira)
-- fnf modder
-- artista
-- coder HAXE
-- youtuber
-- musico iniciante
+- faço mods de fnf (programando e artes, musicas e etc..)
+- sou preguiçoso pra cacete
 
 só isso
+
+<div><img src="https://i.giphy.com/8JCIWBz8oRRLZmZhNn.webp" width="300"></div>
